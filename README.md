@@ -1,3 +1,3 @@
 # Body Mass Index App
-#This is a simple body mass index (BMI) calculator application. The user can input their weight in Kilo Grams and height in inches, and the app will calculate and display their BMI. The application also includes a categorical label based on the World Health Organization's guidelines for interpreting BMI results.
+This is a simple body mass index (BMI) calculator application. The user can input their weight in Kilo Grams and height in inches, and the app will calculate and display their BMI. The application also includes a categorical label based on the World Health Organization's guidelines for interpreting BMI results.
 Please note that this application is for educational and informational purposes only and is not intended for use as a diagnostic tool. The World Health Organization's guidelines for interpreting BMI results should be consulted for a more comprehensive assessment of an individual's health.
